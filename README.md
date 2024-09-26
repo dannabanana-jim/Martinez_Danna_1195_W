@@ -14,7 +14,7 @@ print(N1)
 print(N2)
 #Imprimo un espacio
 print (" ")
-#Dekaro nuevamente las variables de mi nombre
+#Declaro nuevamente las variables de mi nombre
 #Para que despues se junten una por una
 App = "Martinez"
 Apm = "Jimenez"
